@@ -1,0 +1,132 @@
+{
+  "projects": [
+    {
+      "date": "07/3/2023",
+      "title": "TIGER ARCYLIC PAINTING",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://sky-high-tech.vercel.app",
+      "imgSrc": "one.jpg"
+    },
+    {
+      "date": "07/3/2023",
+      "title": "LORD GANESHA",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://sky-high-tech.vercel.app",
+      "imgSrc": "two.jpg"
+    },
+
+    {
+      "date": "11/10/2022",
+      "title": "LORD SHIV'S PAINTING",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://pawanweather.000webhostapp.com",
+      "imgSrc": "three.jpg"
+    },
+    {
+      "date": "15/3/2023",
+      "title": "LORD GANESHA ARCYLIC PAINTING",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://aalphacrypto.vercel.app",
+      "imgSrc": "four.jpg"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "BEAUTIFULL ARCYLIC PAINTING",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://pawanportforfio.000webhostapp.com",
+      "imgSrc": "five.jpg"
+    },
+    {
+      "date": "20/5/2023",
+      "title": "LORD GANESHA",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "six.jpg"
+    },
+    {
+      "date": "07/3/2023",
+      "title": "RADHA KRISHNA",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://sky-high-tech.vercel.app",
+      "imgSrc": "seven.jpg"
+    },
+
+    {
+      "date": "11/10/2022",
+      "title": "FLORAL PAINTING",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://pawanweather.000webhostapp.com",
+      "imgSrc": "eight.jpg"
+    },
+    {
+      "date": "15/3/2023",
+      "title": "BEAUTIFULL HORSES",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://aalphacrypto.vercel.app",
+      "imgSrc": "nine.jpg"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "OIL ON CANVAS 48x36 INCHES",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://pawanportforfio.000webhostapp.com",
+      "imgSrc": "tn.jpg"
+    },
+    {
+      "date": "20/5/2023",
+      "title": "GUITAR ARCYLIC PAINTING",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "eleven.jpg"
+    },
+    {
+      "date": "20/5/2023",
+      "title": "ARCYLIC ON CANVAS 24x18 INCHES",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "12.jpg"
+    }
+    ,
+    {
+      "date": "20/5/2023",
+      "title": "ARCYLIC ON CANVAS 24x18 INCHES",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "13.jpg"
+    }
+    ,
+    {
+      "date": "20/5/2023",
+      "title": "ARCYLIC ON CANVAS 24x18 INCHES",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "14.jpg"
+    }
+    ,
+    {
+      "date": "20/5/2023",
+      "title": "ARCYLIC ON CANVAS 24x18 INCHES",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "15.jpg"
+    }
+    ,
+    {
+      "date": "20/5/2023",
+      "title": "ARCYLIC ON CANVAS 24x18 INCHES",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "16.jpg"
+    }
+    ,
+    {
+      "date": "20/5/2023",
+      "title": "ARCYLIC ON CANVAS 24x18 INCHES",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "17.jpg"
+    }
+  ]
+}

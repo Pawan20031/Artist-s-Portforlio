@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "07/3/2023",
+      "title": "LORD SHIVA'S PAINTING",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://sky-high-tech.vercel.app",
+      "imgSrc": "https://scontent.fdel25-2.fna.fbcdn.net/v/t1.6435-9/67551112_2356219924666683_1793894843244609536_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=lV0M5_deRTsAX8m_Snp&_nc_ht=scontent.fdel25-2.fna&oh=00_AfAE3FqYhlCC6fn_WPO_fCyYZq2P1Cq9uF2RLGW4-g_XYA&oe=64A2ADC3"
+    },
+
+    {
+      "date": "11/10/2022",
+      "title": "LORD GANESHA'S PAINTING",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://pawanweather.000webhostapp.com",
+      "imgSrc": "https://scontent.fdel25-4.fna.fbcdn.net/v/t31.18172-8/10269045_1390132361275449_3032855867264585004_o.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ba80b0&_nc_ohc=hck7noUvyrEAX-BRKAA&_nc_ht=scontent.fdel25-4.fna&oh=00_AfAqYe8ouslsfrn7Xn89mtdym2amtFYrWLuCMpBq1wnXeQ&oe=64A2D353"
+    },
+    {
+      "date": "15/3/2023",
+      "title": "RADHA KRISHNA",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://aalphacrypto.vercel.app",
+      "imgSrc": "https://scontent.fdel25-4.fna.fbcdn.net/v/t31.18172-8/1909334_1390133707941981_5717912476344703591_o.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ba80b0&_nc_ohc=DSYsDmlurWAAX-tIkha&_nc_ht=scontent.fdel25-4.fna&oh=00_AfC0Bm7G2GKIgRwahMKz538x2O5vCmJxq1p34RqGnEeaAA&oe=64A2B104"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "BEAUTIFULL HORSES",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://pawanportforfio.000webhostapp.com",
+      "imgSrc": "https://scontent.fdel25-3.fna.fbcdn.net/v/t31.18172-8/1974389_1390139441274741_3891623328401291497_o.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ba80b0&_nc_ohc=kv1LS4qoT9AAX_1hA6B&_nc_ht=scontent.fdel25-3.fna&oh=00_AfDHiDYy0YFt59Sh7dZl7mB_6OVn-2Cm068EuSKGuYbglA&oe=64A2D2C9"
+    },
+    {
+      "date": "20/5/2023",
+      "title": "TIGER'S PAINTING",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://scontent.fdel25-2.fna.fbcdn.net/v/t39.30808-6/301801106_3251256088496391_3055677421279195200_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=_4iIz1HpL74AX-lhOB2&_nc_ht=scontent.fdel25-2.fna&oh=00_AfCu2Ah8kiq2t1zjoSZSuy_q9pv1zizDJAAuF2_WEMWBAQ&oe=64800301"
+    }
+  ]
+}
